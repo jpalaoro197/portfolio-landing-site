@@ -28,7 +28,24 @@ img {
   padding: 4px;
   background-color: black;
 }
-
+.gh {
+  color: white;
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid red;
+  padding: 4px;
+  background-color: black;
+}
 body {
   text-align: center;
+}
+ul {
+  text-align: left;
+}
+ol {
+  display: table;
+  margin: auto;
 }
