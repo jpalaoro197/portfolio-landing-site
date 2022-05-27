@@ -6,7 +6,7 @@ img {
   margin-right: auto;
 }
 
-.sidebar {
+.bio {
   color: white;
   width: 25%;
   display: block;
@@ -14,6 +14,17 @@ img {
   margin-right: auto;
   text-align: center;
   border: 2px solid yellow;
+  padding: 4px;
+  background-color: black;
+}
+.hobbies {
+  color: white;
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid red;
   padding: 4px;
   background-color: black;
 }
