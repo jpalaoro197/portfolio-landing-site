@@ -13,7 +13,7 @@
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  border: 2px solid yellow;
+  border: 2px solid red;
   padding: 4px;
   background-color: black;
 }
@@ -53,19 +53,20 @@ ol {
   color: white;
   width: 36.3%;
   float: left;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0%;
+
   text-align: center;
   border: 2px solid red;
   padding: 4px;
   background-color: black;
+  margin-left: 13.7%;
 }
 .img2 {
   width: 400px;
   height: auto;
   display: block;
-
+  margin-right: 13.7;
 }
  .red {
-   color: red;
+  color: red;
  }
